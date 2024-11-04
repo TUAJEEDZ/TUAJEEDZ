@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,visualstudio,javascript,react,php,solidity,cpp,java,wordpress" /></br>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,eclipse,firebase,github,kali,ubuntu,vscode," /></br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,cs,cpp,java,wordpress" /></br>
+    <img src="https://skillicons.dev/icons?i=docker,eclipse,firebase,github,ubuntu,vscode,visualstudio" /></br>
 
 </div>
 
