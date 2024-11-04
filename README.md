@@ -10,11 +10,11 @@
 
 <div align="center">
  
- ⚡ **I study at Suranaree University of Technology, Thailand. 🎓**
+ 🧑‍💻 **I study at Suranaree University of Technology, Thailand. 🧑‍💻**
  
- ⚡ **Digital Arts and Sciences Division, Digital Technology Program 💻**
+ 🖥️ **Digital Arts and Sciences Division, Digital Technology Program 🖥️**
 
-⚡ **Career Path > Softwere developer 🔒** 
+🎮 **Career Path > Softwere developer 🎮** 
 
 
 
