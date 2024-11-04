@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=EE4B2B&lines=Hi+Everyone!+👋;+I'm+Wave+Softwere+developer;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ff0000&lines=Hi+Everyone!+👋;+I'm+Wave+Softwere+developer;" />
 
 
 </h1>
@@ -46,7 +46,7 @@
 <h2 align="center">🤖 Orther 🤖</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,discord,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=ps,discord,figma" /><br>
 </div>
 
 
