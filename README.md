@@ -35,15 +35,15 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
+<h2 align="center">🎓 Languages Frameworks Tools 🎓</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,cs,cpp,java,wordpress" /></br>
-    <img src="https://skillicons.dev/icons?i=docker,eclipse,firebase,github,ubuntu,vscode,visualstudio" /></br>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java,javascript,react,html,css,php,wordpress" /></br>
+    <img src="https://skillicons.dev/icons?i=unity,docker,eclipse,firebase,github,ubuntu,vscode,visualstudio" /></br>
 
 </div>
 
-<h2 align="center">🤖 Orther 🤖</h2>
+<h2 align="center">🌑 Orther 🌑</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ps,discord,figma" /><br>
