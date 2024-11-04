@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=EE4B2B&lines=Hi+Everyone!+👋;+I'm+Paty+Security+Analyst!;" />
 
-<!--
-**TUAJEEDZ/TUAJEEDZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">👤Personal Information</h3>
+
+<br/>
+
+<div align="center">
+ 
+ ⚡ **I study at Suranaree University of Technology, Thailand. 🎓**
+ 
+ ⚡ **Digital Arts and Sciences Division, Digital Technology Program 💻**
+
+⚡ **Career Path > Security Analyst 🔒** 
+
+
+
+ </div>
+
+
+<div align="center"> 
+ <a href="https://www.linkedin.com/in/settapon-choedphutsa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+  <a href="mailto:settapon.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+</a>
+
+
+</div>
+
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages Frameworks Tools ⚒️</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,php,solidity,cpp,java,wordpress" /></br>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,eclipse,firebase,github,kali,ubuntu,vscode," /></br>
+
+</div>
+
+<h2 align="center">🤖 Orther 🤖</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,discord,figma" /><br>
+</div>
+
+
+
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 Thank you for viewing my profile 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
